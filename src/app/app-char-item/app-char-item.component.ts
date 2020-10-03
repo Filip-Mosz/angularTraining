@@ -2,8 +2,8 @@ import { Component, Input, OnInit, Output, EventEmitter, OnChanges, OnDestroy } 
 import { Char } from '../char.interface';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
+  selector: 'app-app-char-item',
+  templateUrl: './app-char-item.component.html',
   styleUrls: ['./app-char-item.component.css']
 })
 export class AppCharItemComponent implements OnInit, OnChanges, OnDestroy {

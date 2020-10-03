@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Char } from './char.interface'
 
 @Component({
-  selector: 'app-root',
+  selector: 'app-app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
