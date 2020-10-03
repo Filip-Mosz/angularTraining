@@ -1,0 +1,15 @@
+.div{
+    width: 300px;
+    height: 100px;
+    background-color: blanchedalmond;
+    border: brown;
+    border-width: 2px;
+}
+
+.button {
+    border: 1px solid red;
+}
+
+.clickedButton {
+    padding: 10px;
+}
